@@ -1,0 +1,3 @@
+CPU < 10MH/s
+GPU < 1GH/s
+ASIC > 1000GH/s
