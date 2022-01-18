@@ -1,5 +1,7 @@
 // Functions in Solidity
 
+// In Solidity, functions are public by default. 
+
 pragma solidity ^0.8.0;
 contract local
 {
