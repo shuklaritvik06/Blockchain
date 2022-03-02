@@ -40,3 +40,6 @@ So it is like we are using name  of the file not location here.
 
 **Working of IPFS**
 
+Suppose five computers A,B,C,D,E are connected to each other, and user upload a file to IPFS, it is cached in the memory of A, now suppose computer B wants that file so it will send the request, and computer A will send a copy of that file to computer B, now suppose as computer A and B both have that file, and computer C asks for that file, then acc to the IPFS protocol, chunks of data will be transferred to it from both of the computers A and B. Suppose now node A and B are down, and D want that file, it can get that file from C.
+
+This is how IPFS works.
